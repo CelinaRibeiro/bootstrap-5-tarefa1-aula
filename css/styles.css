@@ -1,11 +1,13 @@
+.col {
+    height: 50px;
+    border: 1px solid #454545;
+    margin-top: 10px;
+}
+
 .impar {
     background-color: #CCC;;
-    border: 1px solid red;
-    margin: 10px;
 }
 .par {
     background-color: #DDD;
-    border: 1px solid blue;
-    margin: 10px;
 }
 
